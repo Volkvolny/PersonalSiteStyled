@@ -1,0 +1,53 @@
+body
+  {
+    background-color: #63BBE9;
+  }
+h3
+{
+  color: #E963BB;
+}
+h1
+{
+  color: #E963BB;
+}
+.hr
+  {
+    color: #6378E9;
+    border-width: 10px;
+    border-style: dotted none none;
+    width: 5%;
+    align-items: center;
+  }
+a:link
+{
+  color: #6378E9;
+}
+a:visited
+{
+  color: #9163E9;
+}
+a:hover
+{
+  color: #E96378;
+}
+table
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+}
+ul
+{
+  list-style: none;
+  text-align: center;
+  margin-bottom: 1%;
+}
+.center
+{
+  text-align: center;
+  margin-bottom: 1%
+}
+#widthChange
+{
+  width: 40%;
+}
